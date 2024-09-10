@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/resorces">
+        <file>images/circle.jpg</file>
+        <file>images/paral.png</file>
+        <file>images/rect.png</file>
+        <file>images/romb.jpg</file>
+        <file>images/sec.jpg</file>
+        <file>images/square.jpg</file>
+        <file>images/trap.png</file>
+        <file>images/treg.jpg</file>
+    </qresource>
+</RCC>
