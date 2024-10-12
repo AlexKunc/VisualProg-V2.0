@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "C:/Users/12345/Desktop/Vuz/VisualProg/lab5/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/lab5_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/12345/Desktop/Vuz/VisualProg/lab5/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/12345/Desktop/Vuz/VisualProg/lab5/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/12345/Desktop/Vuz/VisualProg/lab5",
+	"CMAKE_SOURCE_DIR" : "C:/Users/12345/Desktop/Vuz/VisualProg/lab5",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "C:/Users/12345/Desktop/Vuz/VisualProg/lab5/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/lab5_autogen/include",
+	"INPUTS" : [],
+	"LOCK_FILE" : "C:/Users/12345/Desktop/Vuz/VisualProg/lab5/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/CMakeFiles/lab5_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "C:/msys64/mingw64/share/qt6/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/12345/Desktop/Vuz/VisualProg/lab5/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/CMakeFiles/lab5_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/12345/Desktop/Vuz/VisualProg/lab5/resources.qrc",
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}
